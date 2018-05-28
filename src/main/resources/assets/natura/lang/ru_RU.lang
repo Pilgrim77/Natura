@@ -1,0 +1,571 @@
+##########################
+#    Overworld Blocks    #
+##########################
+
+tile.natura.clouds.white.name=Облако
+tile.natura.clouds.white.tooltip=Такое лёгкое и пушистое!\nСпасает Вас, когда Вы падаете
+tile.natura.clouds.dark.name=Тёмное облако
+tile.natura.clouds.dark.tooltip=Такое лёгкое и пушистое!\nПричина ударов молний
+tile.natura.clouds.ash.name=Пепельное облако
+tile.natura.clouds.ash.tooltip=Такое лёгкое и пушистое!\n3x3 на верстаке даст древесный уголь 
+tile.natura.clouds.sulfur.name=Серное облако
+tile.natura.clouds.sulfur.tooltip=Такое лёгкое и пушистое!\n2x2 на верстаке даст серу
+
+tile.natura.overworld_logs.maple.name=Клён
+tile.natura.overworld_logs.maple.tooltip=Немного сладкое
+tile.natura.overworld_logs.silverbell.name=Галезия
+tile.natura.overworld_logs.silverbell.tooltip=Серебряные колокольчики
+tile.natura.overworld_logs.amaranth.name=Щирица
+tile.natura.overworld_logs.amaranth.tooltip=Сердце леса
+tile.natura.overworld_logs.tiger.name=Тигровое дерево
+tile.natura.overworld_logs.tiger.tooltip=Свилеватая древесина
+
+tile.natura.overworld_logs2.willow.name=Ива
+tile.natura.overworld_logs2.willow.tooltip=Плакальщица
+tile.natura.overworld_logs2.eucalyptus.name=Эвкалипт
+tile.natura.overworld_logs2.eucalyptus.tooltip=Розовая древесина
+tile.natura.overworld_logs2.sakura.name=Сакура
+tile.natura.overworld_logs2.sakura.tooltip=Цветущая вишня
+tile.natura.overworld_logs2.hopseed.name=Хмельное дерево
+tile.natura.overworld_logs2.hopseed.tooltip=Невозможно забраться
+
+tile.natura.overworld_leaves.maple.name=Листья клёна
+tile.natura.overworld_leaves.maple.tooltip=Немного сладкое
+tile.natura.overworld_leaves.silverbell.name=Листья галезии
+tile.natura.overworld_leaves.silverbell.tooltip=Серебряные колокольчики
+tile.natura.overworld_leaves.amaranth.name=Листья щирицы
+tile.natura.overworld_leaves.amaranth.tooltip=Сердце леса
+tile.natura.overworld_leaves.tiger.name=Листья тигрового дерева
+tile.natura.overworld_leaves.tiger.tooltip=Свилеватая древесина
+
+tile.natura.overworld_leaves2.willow.name=Листья ивы
+tile.natura.overworld_leaves2.willow.tooltip=Плакальщица
+tile.natura.overworld_leaves2.eucalyptus.name=Листья эвкалипта
+tile.natura.overworld_leaves2.eucalyptus.tooltip=Розовая древесина
+tile.natura.overworld_leaves2.sakura.name=Листья сакуры
+tile.natura.overworld_leaves2.sakura.tooltip=Цветущая вишня
+tile.natura.overworld_leaves2.hopseed.name=Листья хмельного дерева
+tile.natura.overworld_leaves2.hopseed.tooltip=Невозможно забраться
+
+tile.natura.overworld_sapling.maple.name=Саженец клёна
+tile.natura.overworld_sapling.maple.tooltip=Немного сладкое
+tile.natura.overworld_sapling.silverbell.name=Саженец галезии
+tile.natura.overworld_sapling.silverbell.tooltip=Серебряные колокольчики
+tile.natura.overworld_sapling.amaranth.name=Саженец щирицы
+tile.natura.overworld_sapling.amaranth.tooltip=Сердце леса
+tile.natura.overworld_sapling.tiger.name=Саженец тигрового дерева
+tile.natura.overworld_sapling.tiger.tooltip=Свилеватая древесина
+
+tile.natura.overworld_sapling2.willow.name=Саженец ивы
+tile.natura.overworld_sapling2.willow.tooltip=Плакальщица
+tile.natura.overworld_sapling2.eucalyptus.name=Саженец эвкалипта
+tile.natura.overworld_sapling2.eucalyptus.tooltip=Розовая древесина
+tile.natura.overworld_sapling2.sakura.name=Саженец сакуры
+tile.natura.overworld_sapling2.sakura.tooltip=Цветущая вишня
+tile.natura.overworld_sapling2.hopseed.name=Саженец хмельного дерева
+tile.natura.overworld_sapling2.hopseed.tooltip=Невозможно забраться
+
+tile.natura.redwood_logs.bark.name=Кора красного дерева
+tile.natura.redwood_logs.bark.tooltip=Сожгите для получения древесного угля\nили сделайте скрытую дверь
+tile.natura.redwood_logs.heart.name=Красное дерево
+tile.natura.redwood_logs.heart.tooltip=Сердцевина дерева
+tile.natura.redwood_logs.root.name=Корень красного дерева
+tile.natura.redwood_logs.root.tooltip=Корень дерева
+
+tile.natura.redwood_leaves.normal.name=Листья красного дерева
+tile.natura.redwood_leaves.normal.tooltip=Гигантская секвойя
+
+tile.natura.redwood_sapling.redwood.name=Саженец красного дерева
+tile.natura.redwood_sapling.redwood.tooltip=Сажайте на площади 7x7\nДля роста потребуется несколько дней
+
+tile.natura.colored_grass.topiary.name=Подстриженная трава
+tile.natura.colored_grass.bluegrass.name=Синяя трава
+tile.natura.colored_grass.autumnal.name=Осенняя трава
+
+tile.natura.colored_grass_slab.topiary.name=Плита из подстриженной травы
+tile.natura.colored_grass_slab.bluegrass.name=Плита из синей травы
+tile.natura.colored_grass_slab.autumnal.name=Плита из осенней травы
+
+tile.natura.colored_grass_stairs_topiary.name=Ступеньки из подстриженной травы
+tile.natura.colored_grass_stairs_bluegrass.name=Ступеньки из синей травы 
+tile.natura.colored_grass_stairs_autumnal.name=Ступеньки из осенней травы 
+
+tile.natura.overworld_planks.maple.name=Кленовые доски
+tile.natura.overworld_planks.maple.tooltip=Немного сладкое
+tile.natura.overworld_planks.silverbell.name=Доски из галезии
+tile.natura.overworld_planks.silverbell.tooltip=Серебряные колокольчики
+tile.natura.overworld_planks.amaranth.name=Доски из щирицы
+tile.natura.overworld_planks.amaranth.tooltip=Сердце леса
+tile.natura.overworld_planks.tiger.name=Доски из тигрового дерева
+tile.natura.overworld_planks.tiger.tooltip=Свилеватая древесина
+tile.natura.overworld_planks.willow.name=Ивовые доски
+tile.natura.overworld_planks.willow.tooltip=Плакальщица
+tile.natura.overworld_planks.eucalyptus.name=Эвкалиптовые доски
+tile.natura.overworld_planks.eucalyptus.tooltip=Розовая древесина
+tile.natura.overworld_planks.sakura.name=Доски из сакуры
+tile.natura.overworld_planks.sakura.tooltip=Цветущая вишня
+tile.natura.overworld_planks.hopseed.name=Доски из хмельного дерева
+tile.natura.overworld_planks.hopseed.tooltip=Невозможно забраться
+tile.natura.overworld_planks.redwood.name=Доски из красного дерева
+tile.natura.overworld_planks.redwood.tooltip=Гигантская секвойя
+
+tile.natura.overworld_slab.maple.name=Кленовая плита
+tile.natura.overworld_slab.maple.tooltip=Немного сладкое
+tile.natura.overworld_slab.silverbell.name=Плита из галезии
+tile.natura.overworld_slab.silverbell.tooltip=Серебряные колокольчики
+tile.natura.overworld_slab.amaranth.name=Плита из щирицы
+tile.natura.overworld_slab.amaranth.tooltip=Сердце леса
+tile.natura.overworld_slab.tiger.name=Плита из тигрового дерева
+tile.natura.overworld_slab.tiger.tooltip=Свилеватая древесина
+tile.natura.overworld_slab.willow.name=Ивовая плита
+tile.natura.overworld_slab.willow.tooltip=Плакальщица
+tile.natura.overworld_slab2.eucalyptus.name=Эвкалиптовая плита
+tile.natura.overworld_slab2.eucalyptus.tooltip=Розовая древесина
+tile.natura.overworld_slab2.sakura.name=Плита из сакуры
+tile.natura.overworld_slab2.sakura.tooltip=Цветущая вишня
+tile.natura.overworld_slab2.hopseed.name=Плита из хмельного дерева
+tile.natura.overworld_slab2.hopseed.tooltip=Невозможно забраться
+tile.natura.overworld_slab2.redwood.name=Плита из красного дерева
+tile.natura.overworld_slab2.redwood.tooltip=Гигантская секвойя
+
+tile.natura.overworld_stairs_maple.name=Кленовые ступеньки
+tile.natura.overworld_stairs_silverbell.name=Ступеньки из галезии
+tile.natura.overworld_stairs_amaranth.name=Ступеньки из щирицы
+tile.natura.overworld_stairs_tiger.name=Ступеньки из тигрового дерева
+tile.natura.overworld_stairs_willow.name=Ивовые ступеньки
+tile.natura.overworld_stairs_eucalyptus.name=Эвкалиптовые ступеньки
+tile.natura.overworld_stairs_hopseed.name=Ступеньки из хмельного дерева
+tile.natura.overworld_stairs_sakura.name=Ступеньки из сакуры
+tile.natura.overworld_stairs_redwood.name=Ступеньки из красного дерева
+
+tile.natura.overworld_berrybush_raspberry.name=Куст малины
+tile.natura.overworld_berrybush_raspberry.tooltip=Сладкая и красная\nРастёт в тёплых краях
+tile.natura.overworld_berrybush_blueberry.name=Куст черники
+tile.natura.overworld_berrybush_blueberry.tooltip=Кислая и синяя\nРастёт в районах с умеренным климатом
+tile.natura.overworld_berrybush_blackberry.name=Куст ежевики
+tile.natura.overworld_berrybush_blackberry.tooltip=Сладкая и чёрная\nРастёт во влажных зонах
+tile.natura.overworld_berrybush_maloberry.name=Куст смородины
+tile.natura.overworld_berrybush_maloberry.tooltip=Вкусная и жёлто-оранжевая\nРастёт в холодных областях
+
+tile.natura.bluebells_flower.name=Колокольчики
+
+tile.natura.saguaro.name=Кактус сагуаро
+tile.natura.saguaro.tooltip=Растёт, как дерево\nДаёт плоды после дождя
+tile.natura.saguaro_baby.name=Маленький кактус сагуаро
+tile.natura.saguaro_baby.tooltip=Растёт, как дерево\nДаёт плоды после дождя
+tile.natura.saguaro_fruit.name=Плод сагуаро
+tile.natura.saguaro_fruit.tooltip=Растёт, как дерево\nДаёт плоды после дождя
+
+tile.natura.maple_button.name=Кленовая кнопка
+tile.natura.maple_pressure_plate.name=Кленовая нажимная плита
+tile.natura.maple_trap_door.name=Кленовый люк
+tile.natura.maple_fence.name=Кленовый забор
+tile.natura.maple_fence_gate.name=Кленовая калитка
+
+tile.natura.silverbell_button.name=Кнопка из галезии
+tile.natura.silverbell_pressure_plate.name=Нажимная плита из галезии
+tile.natura.silverbell_trap_door.name=Люк из галезии
+tile.natura.silverbell_fence.name=Забор из галезии
+tile.natura.silverbell_fence_gate.name=Калитка из галезии
+
+tile.natura.amaranth_button.name=Кнопка из щирицы
+tile.natura.amaranth_pressure_plate.name=Нажимная плита из щирицы
+tile.natura.amaranth_trap_door.name=Люк из щирицы
+tile.natura.amaranth_fence.name=Забор из щирицы
+tile.natura.amaranth_fence_gate.name=Калитка из щирицы
+
+tile.natura.tiger_button.name=Кнопка из тигрового дерева
+tile.natura.tiger_pressure_plate.name=Нажимная плита из тигрового дерева
+tile.natura.tiger_trap_door.name=Люк из тигрового дерева
+tile.natura.tiger_fence.name=Забор из тигрового дерева
+tile.natura.tiger_fence_gate.name=Калитка из тигрового дерева
+
+tile.natura.willow_button.name=Ивовая кнопка
+tile.natura.willow_pressure_plate.name=Ивовая нажимная плита
+tile.natura.willow_trap_door.name=Ивовый люк
+tile.natura.willow_fence.name=Ивовый забор
+tile.natura.willow_fence_gate.name=Ивовая калитка
+
+tile.natura.eucalyptus_button.name=Эвкалиптовая кнопка
+tile.natura.eucalyptus_pressure_plate.name=Эвкалиптовая нажимная плита
+tile.natura.eucalyptus_trap_door.name=Эвкалиптовый люк
+tile.natura.eucalyptus_fence.name=Эвкалиптовый забор
+tile.natura.eucalyptus_fence_gate.name=Эвкалиптовая калитка
+
+tile.natura.hopseed_button.name=Кнопка из хмельного дерева
+tile.natura.hopseed_pressure_plate.name=Нажимная плита из хмельного дерева
+tile.natura.hopseed_trap_door.name=Люк из хмельного дерева
+tile.natura.hopseed_fence.name=Забор из хмельного дерева
+tile.natura.hopseed_fence_gate.name=Калитка из хмельного дерева
+
+tile.natura.sakura_button.name=Кнопка из сакуры
+tile.natura.sakura_pressure_plate.name=Нажимная плита из сакуры
+tile.natura.sakura_trap_door.name=Люк из сакуры
+tile.natura.sakura_fence.name=Забор из сакуры
+tile.natura.sakura_fence_gate.name=Калитка из сакуры
+
+tile.natura.redwood_button.name=Кнопка из красного дерева
+tile.natura.redwood_pressure_plate.name=Нажимная плита из красного дерева
+tile.natura.redwood_trap_door.name=Люк из красного дерева
+tile.natura.redwood_fence.name=Забор из красного дерева
+tile.natura.redwood_fence_gate.name=Калитка из красного дерева
+
+tile.natura.overworld_bookshelves.maple.name=Кленовая книжная полка
+tile.natura.overworld_bookshelves.silverbell.name=Книжная полка из галезии
+tile.natura.overworld_bookshelves.amaranth.name=Книжная полка из щирицы
+tile.natura.overworld_bookshelves.tiger.name=Книжная полка из тигрового дерева
+tile.natura.overworld_bookshelves.willow.name=Ивовая книжная полка
+tile.natura.overworld_bookshelves.eucalyptus.name=Эвкалиптовая книжная полка
+tile.natura.overworld_bookshelves.hopseed.name=Книжная полка из хмельного дерева
+tile.natura.overworld_bookshelves.sakura.name=Книжная полка из сакуры
+tile.natura.overworld_bookshelves.redwood.name=Книжная полка из красного дерева
+
+tile.natura.overworld_workbenches.maple.name=Кленовый верстак
+tile.natura.overworld_workbenches.silverbell.name=Верстак из галезии
+tile.natura.overworld_workbenches.amaranth.name=Верстак из щирицы
+tile.natura.overworld_workbenches.tiger.name=Верстак из тигрового дерева
+tile.natura.overworld_workbenches.willow.name=Ивовый верстак
+tile.natura.overworld_workbenches.eucalyptus.name=Эвкалиптовый верстак
+tile.natura.overworld_workbenches.hopseed.name=Верстак из хмельного дерева
+tile.natura.overworld_workbenches.sakura.name=Верстак из сакуры
+tile.natura.overworld_workbenches.redwood.name=Верстак из красного дерева
+
+#######################
+#    Nether Blocks    #
+#######################
+
+tile.natura.nether_logs.ghostwood.name=Призрачное дерева
+tile.natura.nether_logs.ghostwood.tooltip=Дерево Незера\nБледное, как призрак
+tile.natura.nether_logs.darkwood.name=Тёмное дерево
+tile.natura.nether_logs.darkwood.tooltip=Дерево Незера
+tile.natura.nether_logs.fusewood.name=Плавкое дерево
+tile.natura.nether_logs.fusewood.tooltip=Дерево Незера\nВзрывная личность
+
+tile.natura.nether_logs2.name=Кровавое дерево
+tile.natura.nether_logs2.tooltip=Дерево Незера\nОгнеупорная древесина
+
+tile.natura.nether_leaves.ghostwood.name=Листья призрачного дерева
+tile.natura.nether_leaves.ghostwood.tooltip=Дерево Незера\nБледное, как призрак
+tile.natura.nether_leaves.bloodwood.name=Листья кровавого дерева
+tile.natura.nether_leaves.bloodwood.tooltip=Дерево Незера\nОгнеупорные листья
+tile.natura.nether_leaves.fusewood.name=Листья плавкого дерева
+tile.natura.nether_leaves.fusewood.tooltip=Дерево Незера\nВзрывная личность
+
+tile.natura.nether_leaves2.darkwood.name=Листья тёмного дерева
+tile.natura.nether_leaves2.darkwood.tooltip=Дерево Незера
+tile.natura.nether_leaves2.darkwood_flowering.name=Листья тёмного дерева
+tile.natura.nether_leaves2.darkwood_flowering.tooltip=Дерево Незера\nЦветы
+tile.natura.nether_leaves2.darkwood_fruit.name=Листья тёмного дерева
+tile.natura.nether_leaves2.darkwood_fruit.tooltip=Дерево Незера\nСодержат яблоки
+
+tile.natura.nether_sapling.ghostwood.name=Саженец призрачного дерева
+tile.natura.nether_sapling.ghostwood.tooltip=Бледный, как призрак
+tile.natura.nether_sapling.fusewood.name=Саженец плавкого дерева
+tile.natura.nether_sapling.fusewood.tooltip=Взрывная личность
+tile.natura.nether_sapling.darkwood.name=Саженец тёмного дерева
+tile.natura.nether_sapling.darkwood.tooltip=Производит меловые яблоки
+
+tile.natura.nether_sapling2.bloodwood.name=Саженец кровавого дерева
+tile.natura.nether_sapling2.bloodwood.tooltip=Огнеупорные доски
+
+tile.natura.nether_planks.ghostwood.name=Доски из призрачного дерева
+tile.natura.nether_planks.ghostwood.tooltip=Бледные, как призрак
+tile.natura.nether_planks.bloodwood.name=Доски из кровавого дерева
+tile.natura.nether_planks.bloodwood.tooltip=Огнеупорные доски
+tile.natura.nether_planks.fusewood.name=Доски из плавкого дерева
+tile.natura.nether_planks.fusewood.tooltip=Дерево Незера\nВзрывная личность
+tile.natura.nether_planks.darkwood.name=Доски из тёмного дерева
+tile.natura.nether_planks.darkwood.tooltip=Дерево Незера
+
+tile.natura.nether_slab.ghostwood.name=Плита из призрачного дерева
+tile.natura.nether_slab.ghostwood.tooltip=Бледная, как призрак
+tile.natura.nether_slab.bloodwood.name=Плита из кровавого дерева
+tile.natura.nether_slab.bloodwood.tooltip=Огнеупорные доски
+tile.natura.nether_slab.fusewood.name=Плита из плавкого дерева
+tile.natura.nether_slab.fusewood.tooltip=Дерево Незера\nВзрывная личность
+tile.natura.nether_slab.darkwood.name=Плита из тёмного дерева
+tile.natura.nether_slab.darkwood.tooltip=Дерево Незера
+
+tile.natura.nether_stairs_ghostwood.name=Ступеньки из призрачного дерева
+tile.natura.nether_stairs_bloodwood.name=Ступеньки из кровавого дерева
+tile.natura.nether_stairs_darkwood.name=Ступеньки из тёмного дерева
+tile.natura.nether_stairs_fusewood.name=Ступеньки из плавкого дерева
+
+tile.natura.nether_glass.soul.name=Стекло душ
+tile.natura.nether_glass.soul.tooltip=Призрачное
+tile.natura.nether_glass.heat.name=Огненное стекло
+
+tile.natura.nether_tainted_soil.tainted_soil.name=Испорченная почва
+tile.natura.nether_tainted_soil.tainted_farmland_dry.name=Испорченная почва
+tile.natura.nether_tainted_soil.tainted_farmland_heated.name=Испорченная почва
+
+tile.natura.nether_heat_sand.name=Огненный песок
+
+tile.natura.nether_berrybush_blightberry.name=Куст губительной ягоды
+tile.natura.nether_berrybush_blightberry.tooltip=Немного злая вещица\nУбивает здоровье
+tile.natura.nether_berrybush_duskberry.name=Куст сумеречной ягоды
+tile.natura.nether_berrybush_duskberry.tooltip=Немного злая вещица\nВидно ночью
+tile.natura.nether_berrybush_skyberry.name=Куст небесной ягоды
+tile.natura.nether_berrybush_skyberry.tooltip=Немного злая вещица\nМедленное погружение
+tile.natura.nether_berrybush_stingberry.name=Куст ядовитой ягоды
+tile.natura.nether_berrybush_stingberry.tooltip=Немного злая вещица\nБьёт, как грузовик
+
+tile.natura.respawn_obelisk.inactive.name=Неактивный обелиск возрождения
+tile.natura.respawn_obelisk.active.name=Активный обелиск возрождения
+
+tile.natura.nether_thorn_vines.name=Колючие лозы
+
+tile.natura.nether_glowshroom.green.name=Зелёный светогриб
+tile.natura.nether_glowshroom.blue.name=Синий светогриб
+tile.natura.nether_glowshroom.purple.name=Фиолетовый светогриб
+
+tile.natura.nether_green_large_glowshroom.all_inside.name=Зелёный светогриб
+tile.natura.nether_blue_large_glowshroom.all_inside.name=Синий светогриб
+tile.natura.nether_purple_large_glowshroom.all_inside.name=Фиолетовый светогриб
+
+tile.natura.nether_lever.name=Рычаг
+
+tile.natura.nether_pressure_plate.name=Нажимная плита
+
+tile.natura.nether_button.name=Кнопка
+
+tile.natura.blaze_rail.name=Пламенные рельсы
+tile.natura.blaze_rail_golden.name=Пламенные энергорельсы
+tile.natura.blaze_rail_activator.name=Пламенные активирующие рельсы
+tile.natura.blaze_rail_detector.name=Пламенные рельсы с датчиком
+
+tile.natura.blaze_hopper.name=Пламенная загрузочная воронка
+
+tile.natura.netherrack_furnace.name=Незеритовая печка
+tile.natura.lit_netherrack_furnace.name=Незеритовая печка
+
+tile.natura.ghostwood_button.name=Кнопка из призрачного дерева
+tile.natura.ghostwood_pressure_plate.name=Нажимная плита из призрачного дерева
+tile.natura.ghostwood_trap_door.name=Люк из призрачного дерева
+tile.natura.ghostwood_fence.name=Забор из призрачного дерева
+tile.natura.ghostwood_fence_gate.name=Калитка из призрачного дерева
+
+tile.natura.bloodwood_button.name=Кнопка из кровавого дерева
+tile.natura.bloodwood_pressure_plate.name=Нажимная плита из кровавого дерева
+tile.natura.bloodwood_trap_door.name=Люк из кровавого дерева
+tile.natura.bloodwood_fence.name=Забор из кровавого дерева
+tile.natura.bloodwood_fence_gate.name=Калитка из кровавого дерева
+
+tile.natura.fusewood_button.name=Кнопка из плавкого дерева
+tile.natura.fusewood_pressure_plate.name=Нажимная плита из плавкого дерева
+tile.natura.fusewood_trap_door.name=Люк из плавкого дерева
+tile.natura.fusewood_fence.name=Забор из плавкого дерева
+tile.natura.fusewood_fence_gate.name=Калитка из плавкого дерева
+
+tile.natura.darkwood_button.name=Кнопка из тёмного дерева
+tile.natura.darkwood_pressure_plate.name=Нажимная плита из тёмного дерева
+tile.natura.darkwood_trap_door.name=Люк из тёмного дерева
+tile.natura.darkwood_fence.name=Забор из тёмного дерева
+tile.natura.darkwood_fence_gate.name=Калитка из тёмного дерева
+
+tile.natura.nether_bookshelves.ghostwood.name=Книжная полка из призрачного дерева
+tile.natura.nether_bookshelves.bloodwood.name=Книжная полка из кровавого дерева
+tile.natura.nether_bookshelves.fusewood.name=Книжная полка из плавкого дерева
+tile.natura.nether_bookshelves.darkwood.name=Книжная полка из тёмного дерева
+
+tile.natura.nether_workbenches.ghostwood.name=Верстак из призрачного дерева
+tile.natura.nether_workbenches.bloodwood.name=Верстак из кровавого дерева
+tile.natura.nether_workbenches.fusewood.name=Верстак из плавкого дерева
+tile.natura.nether_workbenches.darkwood.name=Верстак из тёмного дерева
+
+################
+#    Items     #
+################
+
+item.natura.edibles.impmeat_raw.name=Сырое мясо импа
+item.natura.edibles.impmeat_raw.tooltip=Есть это невозможно, скорее всего вредное
+item.natura.edibles.impmeat_cooked.name=Приготовленное мясо импа
+item.natura.edibles.impmeat_cooked.tooltip=Тёплое на ощуп
+
+item.natura.edibles.raspberry.name=Малина
+item.natura.edibles.raspberry.tooltip=Сытно!
+item.natura.edibles.blueberry.name=Черника
+item.natura.edibles.blueberry.tooltip=Сытно!
+item.natura.edibles.blackberry.name=Ежевика
+item.natura.edibles.blackberry.tooltip=Сытно!
+item.natura.edibles.maloberry.name=Смородина
+item.natura.edibles.maloberry.tooltip=Сытно!
+
+item.natura.edibles.blightberry.name=Губительная ягода
+item.natura.edibles.blightberry.tooltip=Немного злая вещица\nУбивает здоровье
+item.natura.edibles.duskberry.name=Сумеречная ягода
+item.natura.edibles.duskberry.tooltip=Немного злая вещица\nВидно ночью
+item.natura.edibles.skyberry.name=Небесная ягода
+item.natura.edibles.skyberry.tooltip=Немного злая вещица\nМедленное погружение
+item.natura.edibles.stingberry.name=Ядовитая ягода
+item.natura.edibles.stingberry.tooltip=Немного злая вещица\nБьёт, как грузовик
+
+item.natura.edibles.potashapple.name=Хлористое яблоко
+item.natura.edibles.potashapple.tooltip=На вкус, как мел
+
+item.natura.edibles.cactusjuice.name=Кактусовый сок
+item.natura.edibles.cactusjuice.tooltip=Освежающе!
+
+item.natura.materials.barley.name=Ячмень
+item.natura.materials.barley.tooltip=Подобен пшенице, растёт в дикой природе
+item.natura.materials.barley_flour.name=Ячменная мука
+item.natura.materials.barley_flour.tooltip=Запеките для получения хлеба\nТакже используется при выпечке торта
+item.natura.materials.wheat_flour.name=Пшеничная мука
+item.natura.materials.wheat_flour.tooltip=Запеките для получения хлеба\nТакже используется при выпечке торта
+item.natura.materials.cotton.name=Хлопок
+item.natura.materials.cotton.tooltip=Источник ниток и шерсти
+item.natura.materials.sulfur_powder.name=Сера
+item.natura.materials.sulfur_powder.tooltip=2x2 на верстаке даст порох
+item.natura.materials.ghostwood_fletching.name=Оперение призрачного дерева
+item.natura.materials.ghostwood_fletching.tooltip=Компонент для изготовления стрелы
+item.natura.materials.imp_leather.name=Кожа импа
+item.natura.materials.imp_leather.tooltip=Защищает от жара Незера
+item.natura.materials.flame_string.name=Пламенная нить
+item.natura.materials.flame_string.tooltip=Более долговечна, чем нить
+item.natura.materials.blue_dye.name=Синий краситель
+
+item.natura.sticks.maple_stick.name=Кленовая палка
+item.natura.sticks.silverbell_stick.name=Палка из галезии
+item.natura.sticks.amaranth_stick.name=Палка из щирицы
+item.natura.sticks.tiger_stick.name=Палка из тигрового дерева
+item.natura.sticks.willow_stick.name=Ивовая палка
+item.natura.sticks.eucalyptus_stick.name=Эвкалиптовая палка
+item.natura.sticks.hopseed_stick.name=Палка из хмельного дерева
+item.natura.sticks.sakura_stick.name=Палка из сакуры
+item.natura.sticks.redwood_stick.name=Палка из красного дерева
+item.natura.sticks.ghostwood_stick.name=Палка из призрачного дерева
+item.natura.sticks.darkwood_stick.name=Палка из тёмного дерева
+item.natura.sticks.fusewood_stick.name=Палка из плавкого дерева
+item.natura.sticks.bloodwood_stick.name=Палка из кровавого дерева
+
+item.natura.empty_bowls.ghostwood_bowl.name=Пустая миска из призрачного дерева
+item.natura.empty_bowls.bloodwood_bowl.name=Пустая миска из кровавого дерева
+item.natura.empty_bowls.darkwood_bowl.name=Пустая миска из тёмного дерева
+item.natura.empty_bowls.fusewood_bowl.name=Пустая миска из плавкого дерева
+
+item.natura.soups.ghostwood_mushroomstew.name=Тушёные грибы
+item.natura.soups.bloodwood_mushroomstew.name=Тушёные грибы
+item.natura.soups.darkwood_mushroomstew.name=Тушёные грибы
+item.natura.soups.fusewood_mushroomstew.name=Тушёные грибы
+
+item.natura.soups.vanilla_glowshroomstew.name=Тушёные светогрибы
+item.natura.soups.ghostwood_glowshroomstew.name=Тушёные светогрибы
+item.natura.soups.bloodwood_glowshroomstew.name=Тушёные светогрибы
+item.natura.soups.darkwood_glowshroomstew.name=Тушёные светогрибы
+item.natura.soups.fusewood_glowshroomstew.name=Тушёные светогрибы
+
+item.natura.soups.berry_medley.name=Ягодный салат
+item.natura.soups.berry_medley.tooltip=Неотразимое сочетание ягод
+
+item.natura.imp_armor_helmet.name=Шлем из кожи импа
+item.natura.imp_armor_chestplate.name=Безрукавка из кожи импа
+item.natura.imp_armor_leggings.name=Поножи из кожи импа
+item.natura.imp_armor_boots.name=Ботинки из кожи импа
+
+item.natura.seed_bags.wheat_seed_bag.name=Мешочек семян пшеницы
+item.natura.seed_bags.wheat_seed_bag.tooltip=Высаживает в области 3x3
+item.natura.seed_bags.potatoes_seed_bag.name=Мешочек картофеля
+item.natura.seed_bags.potatoes_seed_bag.tooltip=Высаживает в области 3x3
+item.natura.seed_bags.carrots_seed_bag.name=Мешочек моркови
+item.natura.seed_bags.carrots_seed_bag.tooltip=Высаживает в области 3x3
+item.natura.seed_bags.nether_wart_seed_bag.name=Мешочек нароста из Незера
+item.natura.seed_bags.nether_wart_seed_bag.tooltip=Высаживает в области 3x3
+item.natura.bonemeal_bag.name=Мешочек костной муки
+item.natura.bonemeal_bag.tooltip=Выращивает растения в области 3х3
+item.natura.overworld_seed_bags.barley_seed_bag.name=Мешочек семян ячменя
+item.natura.overworld_seed_bags.barley_seed_bag.tooltip=Высаживает в области 3x3
+item.natura.overworld_seed_bags.cotton_seed_bag.name=Мешочек семян хлопчатника
+item.natura.overworld_seed_bags.cotton_seed_bag.tooltip=Высаживает в области 3x3
+
+item.natura.overworld_seeds.barley_seeds.name=Семена ячменя
+item.natura.overworld_seeds.barley_seeds.tooltip=Подобен пшенице, растёт в дикой природе
+item.natura.overworld_seeds.cotton_seeds.name=Семена хлопчатника
+item.natura.overworld_seeds.cotton_seeds.tooltip=Источник ниток и шерсти
+
+item.natura.overworld_doors.eucalyptus_door.name=Эвкалиптовая дверь
+item.natura.overworld_doors.eucalyptus_door.tooltip=Розовая древесина
+item.natura.overworld_doors.hopseed_door.name=Дверь из хмельного дерева
+item.natura.overworld_doors.hopseed_door.tooltip=Невозможно забраться
+item.natura.overworld_doors.sakura_door.name=Дверь из сакуры
+item.natura.overworld_doors.sakura_door.tooltip=Цветущая вишня
+item.natura.overworld_doors.redwood_door.name=Дверь из красного дерева
+item.natura.overworld_doors.redwood_door.tooltip=Гигантская секвойя
+item.natura.overworld_doors.redwood_bark_door.name=Дверь из коры красного дерева
+item.natura.overworld_doors.redwood_bark_door.tooltip=Секретный туннель
+
+item.natura.nether_doors.ghostwood_door.name=Дверь из призрачного дерева
+item.natura.nether_doors.ghostwood_door.tooltip=Бледная, как призрак
+item.natura.nether_doors.bloodwood_door.name=Дверь из кровавого дерева
+item.natura.nether_doors.bloodwood_door.tooltip=Огнеупорная дверь
+
+item.natura.saguaro_fruit_item.name=Плод сагуаро
+
+################
+#    Tools     #
+################
+
+item.natura.flint_and_blaze.name=Огненное огниво
+
+item.natura.ghostwood_sword.name=Меч из призрачного дерева
+item.natura.ghostwood_pickaxe.name=Кирка из призрачного дерева
+item.natura.ghostwood_shovel.name=Лопата из призрачного дерева
+item.natura.ghostwood_axe.name=Топор из призрачного дерева
+item.natura.ghostwood_kama.name=Мотыга из призрачного дерева
+item.natura.ghostwood_bow.name=Лук из призрачного дерева
+
+item.natura.bloodwood_sword.name=Меч из кровавого дерева
+item.natura.bloodwood_pickaxe.name=Кирка из кровавого дерева
+item.natura.bloodwood_shovel.name=Лопата из кровавого дерева
+item.natura.bloodwood_axe.name=Топор из кровавого дерева
+item.natura.bloodwood_kama.name=Мотыга из кровавого дерева
+item.natura.bloodwood_bow.name=Лук из кровавого дерева
+
+item.natura.darkwood_sword.name=Меч из тёмного дерева
+item.natura.darkwood_pickaxe.name=Кирка из тёмного дерева
+item.natura.darkwood_shovel.name=Лопата из тёмного дерева
+item.natura.darkwood_axe.name=Топор из тёмного дерева
+item.natura.darkwood_kama.name=Мотыга из тёмного дерева
+item.natura.darkwood_bow.name=Лук из тёмного дерева
+
+item.natura.fusewood_sword.name=Меч из плавкого дерева
+item.natura.fusewood_pickaxe.name=Кирка из плавкого дерева
+item.natura.fusewood_shovel.name=Лопата из плавкого дерева
+item.natura.fusewood_axe.name=Топор из плавкого дерева
+item.natura.fusewood_kama.name=Мотыга из плавкого дерева
+item.natura.fusewood_bow.name=Лук из плавкого дерева
+
+item.natura.netherquartz_sword.name=Кварцевый меч
+item.natura.netherquartz_pickaxe.name=Кварцевая кирка
+item.natura.netherquartz_shovel.name=Кварцевая лопата
+item.natura.netherquartz_axe.name=Кварцевый топор
+item.natura.netherquartz_kama.name=Кварцевая мотыга
+item.natura.netherquartz_bow.name=Кварцевый лук
+
+#################
+#   Entities    #
+#################
+
+entity.imp.name=Имп
+entity.heatscarspider.name=Огненный паук
+entity.babyheatscarspider.name=Детёныш огненного паука
+entity.nitrocreeper.name=Азотный крипер
+
+entity.natura.imp.name=Имп
+entity.natura.heatscarspider.name=Огненный паук
+entity.natura.babyheatscarspider.name=Детёныш огненного паука
+entity.natura.nitrocreeper.name=Азотный крипер
+
+################
+#     GUIs     #
+################
+
+itemGroup.NaturaGeneral=Natura's General Items
+itemGroup.NaturaWorld=Natura's World Items
+itemGroup.NaturaDecorative=Natura's Decorative Items
+
+###############
+#    HWYLA    #
+###############
+
+option.natura.alternatecropitem=Альтернативная культура
+option.natura.alternatedooritem=Альтернативная дверь
